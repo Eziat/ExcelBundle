@@ -1,3 +1,5 @@
+This is a fork version. Waiting for symfony 4 support.
+
 Symfony2 Excel bundle
 ============
 
